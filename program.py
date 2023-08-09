@@ -1,11 +1,3 @@
-print("My app")
-print("github")
-
-print("1234")
-
-
-print("bye bye")
-print("test test")
 
 def grade_calculate(score):
     if score >= 90:
@@ -20,3 +12,6 @@ def grade_calculate(score):
         return 'F'
     
 print(grade_calculate(85))
+
+def printx(x):
+    print(x)
