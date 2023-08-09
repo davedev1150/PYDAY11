@@ -1,1 +1,2 @@
-print(github)
+print("github")
+print("bye bye")
